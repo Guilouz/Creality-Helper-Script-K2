@@ -1,4 +1,4 @@
-# Creality Helper Script (K2 Edition)
+# Creality Helper Script (K2 Series Edition)
 
 ## About
 
